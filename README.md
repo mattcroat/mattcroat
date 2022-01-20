@@ -2,9 +2,7 @@
 
 # Hey friends! 👋
 
-I'm Matia. I love building things for the web but also making it look great. I help others learn through creating content on **Joy of Code** mostly aimed at web development and web design.
-
-I love JavaScript and it's ecosystem of libraries and frameworks in particular so if you enjoy that type of content or need help navigating the confusing landscape of modern web develepment I'm here for you. 
+I love building things for the web but also making it look great. I help others learn through creating content on **Joy of Code** mostly aimed at web development and web design. I love JavaScript and it's ecosystem of libraries and frameworks in particular so if you enjoy that type of content or need help navigating the confusing landscape of modern web develepment I'm here for you. 
 
 ## ❤️ Love
 
