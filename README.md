@@ -1,9 +1,16 @@
-### JavaScript ☕✨
+![Joy of Code](https://i.imgur.com/SmSo9Zy.png)
 
-⚛️ React | ☕ TypeScript | ⛵ Tailwind CSS
+# Hey friends! 👋
 
-I'm a digital gardener. 🧑‍🌾
+## ❤️ Love
 
-🌱 [Joy of Code](https://joyofcode.xyz/)
+- ☕️ JavaScript
+- ⚛️ React
+- ⚡️ Svelte
+- 📜 TypeScript
 
-<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="Kermit typing on the typewriter" />
+## 🔗 Links
+
+- 🖌️ [Joy of Code](https://joyofcode.xyz/)
+- ▶️ [YouTube](https://www.youtube.com/channel/UC6wpjLSLn2dhlaDjn6_V0rw)
+- 🐦️ [Twitter](https://twitter.com/joyofcodedev)
