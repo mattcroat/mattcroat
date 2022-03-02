@@ -14,5 +14,5 @@ I love building things for the web but also making it look great and accessible.
 ## 🔗 Links
 
 - 🖌️ [Joy of Code](https://joyofcode.xyz/)
-- ▶️ [YouTube](https://www.youtube.com/channel/UC6wpjLSLn2dhlaDjn6_V0rw)
+- ▶️ [YouTube](https://www.youtube.com/joyofcodedev)
 - 🐦️ [Twitter](https://twitter.com/joyofcodedev)
